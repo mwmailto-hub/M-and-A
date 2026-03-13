@@ -1,5 +1,29 @@
-.section1{
-    width: 200px;
-    height: 200px;
-    background: green;
+.section1 {
+  width: 200px;
+  height: 200px;
+  background: green;
+}
+
+.sec2 {
+  background: #2222ca;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+
+.sec3 {
+  background: #247745;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.text-sample {
+  background: #d51c1c;
+  display: inline-block;
+  color: #fff;
+}
+
+.sec4 {
+  background: #a0d51c;
+  display: inline-block;
+  color: #fff;
 }
